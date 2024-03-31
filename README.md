@@ -1,6 +1,11 @@
 
 This repo is for a centralized area of things I contribute or find about jjk cursed clash. Contributions are more than welcome, and feel free to share whatever shit is here to wherever. 
 
+## Basic Info
+1.0 AES Key: 0x649B1C4A3F43398C6AC5B0E138661756824F8967EAB6431AEE84DE2E6A7C0FE0  
+1.1 AES Key: 0x28CE20ACDF2DBA03B61F9330AD4B5F0BAEB7E47F3F62858C43844F8EC7598F43  
+usmaps are in the repo
+
 ## Character IDs 
 CP 10 Yuji  
 CP 20 SUKUNA   
