@@ -19,3 +19,8 @@ CP 130 Mahito
 CP 140 Jogo   
 CP 150 Hanami   
 CP 160 Eso  
+## Multiple Texture/_M Texture Channels
+
+red = rim light mask   
+green = shadow mask   
+blue = toon lines(?)  
