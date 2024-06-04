@@ -5,7 +5,7 @@ This repo is for a centralized area of things I contribute or find about jjk cur
 1.0 AES Key: 0x649B1C4A3F43398C6AC5B0E138661756824F8967EAB6431AEE84DE2E6A7C0FE0  
 1.1 AES Key: 0x28CE20ACDF2DBA03B61F9330AD4B5F0BAEB7E47F3F62858C43844F8EC7598F43  
 Hidden Inventory DLC Update AES Key: 0xba8d5ad2b665169e3f7780af71bcb53e234634487482425465f73b9a8bc3b2fe 
- usmaps are in the repo
+  usmaps are in the repo
 
 ## Character IDs 
 CP 10 Yuji  
