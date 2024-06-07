@@ -27,9 +27,9 @@ CP 130 Mahito
 CP 140 Jogo   
 CP 150 Hanami   
 CP 160 Eso  
-CP 170 Mai
-CP 180 Momo
-Cp 200 Toji
+CP 170 Mai  
+CP 180 Momo  
+Cp 200 Toji  
 ## Multiple Texture/_M Texture Channels
 
 red = rim light mask   
