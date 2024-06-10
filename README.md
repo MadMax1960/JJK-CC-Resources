@@ -13,7 +13,7 @@ CP 20 SUKUNA
 CP 30 Megumi  
 CP 40 Nobara  
 CP 50 Gojo  
-CP 51 Teen Gojo
+CP 51 Teen Gojo  
 CP 60 Maki  
 CP 70 Inumaki	  
 CP 80 Panda  
