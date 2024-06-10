@@ -22,7 +22,7 @@ CP 90 Nanami
 CP 100 Todo   
 CP 110 Yuta   
 CP 120 Geto   
-CP 121 Teen Geto
+CP 121 Teen Geto  
 CP 130 Mahito   
 CP 140 Jogo   
 CP 150 Hanami   
