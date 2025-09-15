@@ -34,12 +34,12 @@ CP 180 Momo
 CP 190 Kamo  
 CP 200 Toji  
 CP 210 Miwa  
-CP 220 Mechamaru
+CP 220 Mechamaru  
 CP 230 Choso  
-CP 240 Dream
-CP 250 Ultimate Mahito
-CP 260 Dagon
-CP 270 Naobito Zenin
+CP 240 Dream  
+CP 250 Ultimate Mahito  
+CP 260 Dagon  
+CP 270 Naobito Zenin  
 ## Multiple Texture/_M Texture Channels
 
 red = rim light mask   
